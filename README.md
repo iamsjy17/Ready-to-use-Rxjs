@@ -1,2 +1,1 @@
-# Ready-to-use-Rxjs
-Rxjs Snippets
+# Rxjs Snippets
